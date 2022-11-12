@@ -1,4 +1,4 @@
-# Comment_Sentiment_Analysis
+# Tweet_Sentiment_Analysis
 CodeCup 7
 
 The psychology of tweets
